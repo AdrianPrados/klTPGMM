@@ -23,7 +23,7 @@ conda activate klTPGMM
 ## Install repository
 Clone the repository in your system.
 ```bash
-git clone https://github.com/AdrianPrados/TAICHI.git
+git clone https://github.com/AdrianPrados/klTPGMM.git
 ```
 
 
