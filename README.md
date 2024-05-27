@@ -80,4 +80,13 @@ An example of the final result can be seen in the following image, where we find
 # Citation
 If you use this code, please quote our works :blush:
 
-At the moment, pending of acceptance in a conference. :seedling:
+```bibtex
+@inproceedings{prados2024f,
+  title={f-Divergence Optimization for Task-Parameterized Learning from Demonstrations Algorithm},
+  author={Prados, Adrian and Mendez, Alberto and Espinoza, Gonzalo and Fernandez, Noelia and Barber, Ramon},
+  booktitle={2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)},
+  pages={9--14},
+  year={2024},
+  organization={IEEE}
+}
+```
